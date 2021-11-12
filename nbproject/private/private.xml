@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/Admin/Documents/NetBeansProjects/CarManagement/web/SearchCustomerView.jsp</file>
+            <file>file:/C:/Users/Admin/Documents/NetBeansProjects/CarManagement/src/java/model/Customer.java</file>
+            <file>file:/C:/Users/Admin/Documents/NetBeansProjects/CarManagement/src/java/dao/EmployeeDAO.java</file>
+            <file>file:/C:/Users/Admin/Documents/NetBeansProjects/CarManagement/web/css/style.css</file>
+            <file>file:/C:/Users/Admin/Documents/NetBeansProjects/CarManagement/web/HomePageView.jsp</file>
+            <file>file:/C:/Users/Admin/Documents/NetBeansProjects/CarManagement/web/Login.jsp</file>
+            <file>file:/C:/Users/Admin/Documents/NetBeansProjects/CarManagement/src/java/dao/CustomerDAO.java</file>
+            <file>file:/C:/Users/Admin/Documents/NetBeansProjects/CarManagement/src/java/dao/DAO.java</file>
+            <file>file:/C:/Users/Admin/Documents/NetBeansProjects/CarManagement/src/java/dao/CarDAO.java</file>
+            <file>file:/C:/Users/Admin/Documents/NetBeansProjects/CarManagement/web/css/login.css</file>
+            <file>file:/C:/Users/Admin/Documents/NetBeansProjects/CarManagement/src/java/model/BookedCar.java</file>
+            <file>file:/C:/Users/Admin/Documents/NetBeansProjects/CarManagement/src/java/model/Employee.java</file>
+            <file>file:/C:/Users/Admin/Documents/NetBeansProjects/CarManagement/src/java/model/Store.java</file>
+            <file>file:/C:/Users/Admin/Documents/NetBeansProjects/CarManagement/web/RentalContractView.jsp</file>
+            <file>file:/C:/Users/Admin/Documents/NetBeansProjects/CarManagement/web/SearchCarView.jsp</file>
+            <file>file:/C:/Users/Admin/Documents/NetBeansProjects/CarManagement/src/java/model/Car.java</file>
+            <file>file:/C:/Users/Admin/Documents/NetBeansProjects/CarManagement/src/java/model/RentalContract.java</file>
+        </group>
+    </open-files>
+</project-private>
